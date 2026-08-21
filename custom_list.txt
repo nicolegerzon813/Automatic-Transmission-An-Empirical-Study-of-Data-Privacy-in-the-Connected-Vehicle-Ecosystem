@@ -1,0 +1,940 @@
+! Alchemer (aka Alchemer Mobile)
+api.apptentive.com
+$.*apptentive.*
+
+! OneTrust (CMP)
+$.*onetrust\.com
+$.*cookielaw\.org
+
+! Sentry (Analytics)
+$.*sentry\.io
+
+! SpeedCurve (front-end monitoring)
+$.*speedcurve\.com
+
+! Usercentrics (CMP)
+$.*usercentrics\.eu
+
+! MobileFuse, LLC
+$.*mobilefuse\.com
+
+! Dynatrace (app monitoring)
+$.*dynatrace\.com
+$.*dynatrace\-managed\.com
+
+! Episerver
+$.*optimizely.com
+logx.optimizely.com
+
+! Genesis Media
+ads.altitude-arena.com
+
+! Rengage
+$.*rnengage\.com
+
+! Samsung Group
+ak.sail-horizon.com
+api.sail-personalize.com
+$.*adgrx\.com
+
+! Sovrn Holdings, Inc.
+$.*lijit\.com
+
+! Admixer Advertising Technologies
+$.*admixer\.net
+
+! NextMillMedia
+$.*nextmillmedia\.com
+
+! Narrative I/O
+io.narrative.io
+
+! Rokt
+$.*mparticle\.com
+
+! Pubfinity
+$.*pubfinity\.com
+$.*playdigo\.com
+
+! iPROM
+$.*iprom\.net
+
+! Entravision Communications Corporation
+$.*smadex\.com
+
+! Playdigo
+$.*yellowblue\.io
+
+
+! Crimtan
+$.*ctnsnet\.com
+
+! VideoAmp 
+$.*videoamp.com
+
+! Airship 
+aswpsdkus.com
+
+! Jivox
+$.*jivox\.com
+
+! Sonobi
+$.*sonobi.com
+
+! ZoomInfo Technologies Inc. 
+aorta.clickagy.com
+
+! Magnite
+$.*rubiconproject\.com
+$.*tremorhub\.com
+$.*springserve\.com
+$.*spotxchange\.com
+
+! Amplitude Inc. 
+$.*amplitude.*
+
+! ID5 Technology Ltd. 
+$.*id5-sync\.com
+
+! Automattic
+api.parsely.com
+$.*parsely\.com
+$pixel\.wp\.com
+
+! Comscore, Inc
+ads.scorecardresearch.com
+$.*scorecardresearch\.com
+
+! Nextdoor Holdings, Inc.
+ads.nextdoor.com
+
+! Between Digital
+ads.betweendigital.com
+
+! Nexxen International Ltd
+ad.turn.com
+$.*turn\.com
+sync.1rx.io
+$.*unrulymedia\.com
+
+! Adrta Technologies Private Limited
+adrta.com
+$.*adrta\.com
+
+! Quantum Metric 
+cdn.quantummetric.com
+$.*quantummetric.*
+
+! The Ozone Project
+$.*the-ozone-project.com
+
+! Outbrain
+$.*teads.*
+$.*outbrain\.com
+$.*zemanta\.com
+
+! Eyeo GmbH
+btloader.com
+$.*btloader.com
+
+! Piano
+$.*cxense\.com
+
+! GumGum
+$.*gumgum\.com
+
+! Mediavine
+$.*mediavine.com
+
+! Brightcove
+metrics.brightcove.com
+$.*brightcove.*
+
+! Disney 
+sanalytics.disneyplus.com
+
+! Attentive
+$.*attentivemobile\.com
+
+! KKR & Co. Inc.
+$.*contextweb\.com
+
+! Wunderkind
+$.*bounceexchange\.com
+$.*cdnbasket\.net
+$.*bouncex\.net
+$.*wknd\.ai
+
+! N.Rich
+$.*nrich.ai
+
+! Hybrid.ai
+$.*hybrid\.ai
+
+! Dun & Bradstreet
+ps.eyeota.net
+$.*eyeota\..*
+
+! LiveRamp Holdings, Inc.
+pippio.com
+cs.emxdgt.com
+$.*emxdgt.com
+$.*pippio\.com
+$.*cognitivlabs\.com
+$.*privacymanager\.io
+
+! AdaptMX
+$.*a-mx\.com
+
+! Yieldmo
+ads.yieldmo.com
+sync-amz.ads.yieldmo.com
+$.*yieldmo\.com
+
+! WPP plc
+$.*mookie1\.com
+
+! Demandbase
+$.*demandbase\.com
+
+! ProSiebenSat.1 Media SE
+$.*adition\.com
+
+! ADKernel
+$.*adkernel\.com
+
+! ymmobi
+$.*ymmobi.*
+
+! TransUnion
+$.*truoptik\.com
+
+! Amadeus IT Group S.A
+ads.travelaudience.com
+
+! Endeavor Business Media
+$.*imrworldwide\.com
+
+! Comcast Corp. 
+$.*fwmrm\.net
+ads.stickyadstv.com
+$.*bidr\.io
+
+! Smart Digital GmbH
+$.*smart-digital-solutions.io
+
+! Equativ
+$.*sharethrough\.com
+$.*smartadserver\.com
+
+! Trusted Stack
+$.*trustedstack\.com
+
+! Miteno Communication Technology
+$.*media\.net
+
+! Index Exchange
+$.*casalemedia\.com
+$.*indexww\.com
+
+! 33 Across
+$.*tynt\.com
+
+! Coveo
+$.*coveo.com
+
+! Pubmatic
+$.*pubmatic\.com
+
+! Bread Financial 
+$.*epsilonrms\.com
+nissan.tier3.epsilonrms.com
+
+! MSD Telematics Pvt Ltd (vehicle tracking)
+b2hxak1anc.traqcliq.com
+
+! Francisco Partners and TPG Inc.
+bam.nr-data.net
+
+! Liberty Media Corporation
+smetrics.siriusxm.com
+www.siriusxm.com
+$.*adswizz\.com
+
+! T-Mobile
+$.*blis\.com
+$.*blismedia\.com
+
+! Podtrac
+$.*podtrac.com
+
+! Publicis Groupe
+$.*crwdcntrl\.net
+$.*fastclick\.net
+
+! Cint Group
+tracker.samplicio.us
+
+! Qualia
+$.*bluecava\.com
+
+! Impact.com
+impactradius-event.com
+$.*impactradius.*
+
+! Tealium
+$.*tiqcdn\.com
+$.*tealiumiq\.com
+
+! StackAdapt
+$.*stackadapt\.com
+
+! Brookfield Business Partners 
+api.connectcdk.com
+$.*connectcdk.*
+
+! Cars Commerce, Inc
+cfassets.dealerinspire.com
+$.*dealerinspire.*
+
+! Branch Metrics Inc. 
+$.*branch.io
+api2.branch.io
+api3.branch.io
+
+! Mixpanel
+api.mixpanel.com
+$.*mixpanel.*
+
+! Appier 
+$.*appier\.net
+
+! Taboola
+$.*taboola.*
+
+! Updata Partners
+$.*piano\.io
+
+! GTCR
+bttrack.com
+$.*simpli\.fi
+
+! Adform
+$.*adform\.net
+
+! Doceree
+bidder.doceree.com
+$.*doceree\.com
+
+! Vox Media and NBCUniversal
+bids.concert.io
+$.*concert\.io
+
+! Smile Wanted Group
+$.*smilewanted\.com
+
+! Ad Results Media
+$.*ad-score\.com
+
+! NextRoll
+$.*adroll\.com
+
+! Exponential Interactive, Inc.
+$.*tribalfusion\.com
+
+! Criteo
+$.*bidswitch\.net
+bidberry.net
+$.*criteo.*
+
+! Nativo
+$.*postrelease\.com
+
+! 33across
+$.*33across\.com
+
+! InMobi 
+pixel.quantserve.com
+sync.inmobi.com
+$.*quantserve.*
+$.*inmobi.*
+
+! InMarket
+scripts.inmarkethub.com
+pixel.logtrackback.com
+lciapi.ninthdecimal.com
+$.*inmarkethub.*
+$.*logtrackback.*
+$.*ninthdecimal.*
+
+! Rokt
+$.*rokt\.com
+
+! Emplifi
+universal.iperceptions.com
+sd.iperceptions.com
+$.*iperceptions.*
+
+! New Relic
+$.*newrelic\.com
+
+! Spotify 
+pixel.byspotify.com
+$.*pdst\.fm
+$.*megaphone\.fm
+megaphone.imgix.net
+
+! Seedtag Advertising US
+sync.bfmio.com
+$.*bfmio.*
+
+! Yahoo
+sp.analytics.yahoo.com
+$.*analytics.yahoo.*
+s.yimg.com
+
+! Experian
+tapestry.tapad.com
+$.*tapad.*
+$.*\.ad\.gt
+$.*hadronid\.net
+
+! Basis Global Technologies
+$.*sitescout\.com
+
+! Kunlun Tech Co., Ltd
+$t\.adx\.opera\.com
+
+! Vitec Software Group AB
+$.*bidtheatre\.com
+
+! Propel Media
+$.*deepintent\.com
+
+! IV Media, LLC
+$monumetric\.technoratimedia\.com
+
+! Bombora
+$ml314\.com
+
+! Nielsen
+$.*exelator\.com
+$.*tmsimg\.com
+$.*cddbp\.net
+
+! Infillion
+$.*mathtag\.com
+
+! Baidu
+$.*mediago\.io
+
+! Seedtag
+$.*seedtag\.com
+
+! Oracle
+$.*bluekai\.com
+$.*addthis\.com
+
+!AlmondNet Group
+$.*intentiq\.com
+
+! TAPTAP Networks
+$.*taptapnetworks\.com
+
+! Direct Digital Holdings, Inc
+$.*colossusssp\.com
+
+! Adot
+$.*adotmob\.com
+
+! Perion
+$.*undertone\.com
+$.*cootlogix\.com
+
+! Cloud Technologies Group
+$.*onaudience\.com
+
+! Ogury Ltd
+$ms-cookie-sync\.presage\.io
+
+! Cuadrilla Capital
+$.*chartbeat\.com
+
+! Samba TV
+$.*semasio\.net
+
+! Throtle
+$.*thrtle\.com
+
+! Storygize
+$.*storygize\.net
+
+! Demandbase
+$.*company-target\.com
+
+! American List Counsel
+$.*alcmpn\.com
+
+! Unity
+$.*streamrail\.com
+
+! Minute Media
+$.*minutemedia-prebid\.com
+
+! Wise Equity
+$onetag-sys\.com
+
+! Harland Clarke Holdings
+$.*mxptint\.net
+
+! Adstanding
+$.*adstanding\.com
+
+! Luna Media Corporation
+$.*lunamedia\.live
+
+! Reset Digital
+$.*resetdigital\.co
+
+! Rakuten Group, Inc.
+$.*linksynergy\.com
+
+! Moloco
+$.*adsmoloco\.com
+
+! EQ Works
+$.*eqads\.com
+
+! ADYOULIKE
+$.*omnitagjs\.com
+
+! Kohlberg & Company
+$.*pix\.pub
+
+! PubliGroupe
+$.*360yield\.com
+
+! M\.D\. Primis Technologies Ltd
+$.*primis\.tech
+
+! Kenshoo, Ltd.
+$.*xg4ken\.com
+
+! Digital East
+$.*digitaleast\.mobi
+
+! AniView Ltd.
+$.*aniview\.com
+
+Evolution Tech.
+$.*e-volution\.ai
+
+! Viant Adelphic
+$.*ipredictive\.com
+
+! Salesforce
+$.*krxd\.net
+$.*c360a\.salesforce\.com	
+$.*evergage\.com
+$.*evgnet\.com
+
+! CrazyEgg
+script.crazyegg.com
+assets-tracking.crazyegg.com
+pagestates-tracking.crazyegg.com
+tracking.crazyegg.com
+$.*crazyegg.*
+
+! Microsoft 
+www.clarity.ms
+c.clarity.ms
+e.clarity.ms
+bat.bing.com
+analyticspixel.microsoft.com
+c.bing.com
+ib.adnxs.com
+$.*adnxs.*
+px.ads.linkedin.com
+snap.licdn.com
+$.*clarity.*
+$.*bing.*
+$.*linkedin.*
+$.*licdn.*
+
+! Mediaocean
+s-a.innovid.com
+collector-48514.us.tvsquared.com
+servedby.flashtalking.com
+d9.flashtalking.com
+$.*innovid.*
+$.*tvsquared.*
+$.*flashtalking.*
+
+! SAP* could qualify as ATA or support under different implementation contexts
+socialize.us1.gigya.com
+$.*gigya.*
+
+! Media and Games Invest
+s.ad.smaato.net
+$.*smaato.*
+
+! Meta (facebook)
+connect.facebook.net
+www.facebook.com
+graph.facebook.com
+$.*facebook.*
+
+! AudioEye
+analytics.audioeye.com
+$.*audioeye.*
+
+! Contentful
+$.*ctfassets\.net
+
+! Kantar Group 
+secure.insightexpressai.com
+$.*insightexpressai.*
+
+! iSpot.tv
+pt.ispot.tv
+$.*ispot.*
+
+! Verint 
+ucm-us.verint-cdn.com
+analytics.foresee.com
+$.*verint.*
+$.*foresee.*
+
+! ContentSquare 
+t.contentsquare.net
+csxd.contentsquare.net
+srm.af.contentsquare.net
+k-us1.az.contentsquare.net
+k-aus1.contentsquare.net
+cdn.heapanalytics.com
+cdn.us.heap-api.com
+$.*heap-api.com
+heapanalytics.com
+$.*contentsquare.*
+$.*heapanalytics.*
+c.clicktale.net
+$.*clicktale.*
+$.*hotjar\.com
+$.*hotjar\.io
+
+! Neustar
+$.*agkn.*
+fid.agkn.com
+d.agkn.com
+
+! Invoca
+pnapi.invoca.net
+solutions.invocacdn.com
+$.*invoca.*
+
+! Adobe
+dpm.demdex.net
+$.*demdex.*
+$.*everesttech.*
+cm.everesttech.net
+www.everestjs.net
+mboxedge34.tt.omtrdc.net
+$.*omtrdc.*
+s7d1.scene7.com
+assets.adobedtm.com
+sistr2.data.adobedc.net
+commerce.adobe.io
+$.*adobedc.*
+$.*112.2o7.*
+$.*everestjs.*
+$p.typekit\.net
+$.*hlx\.page
+$.*adobeaemcloud.*
+
+! Acxiom LLC
+ri.ax5.co
+
+! Amazon 
+c.amazon-adsystem.com
+$.*amazon-adsystem.*
+$.*media-amazon\.com
+prod.sip-edge.amc.amazon.dev
+
+! The Trade Desk 
+insight.adsrvr.org
+js.adsrvr.org
+match.adsrvr.org
+$.*adsrvr.*
+$.*uidapi\.com
+
+! Crownpeak
+c.evidon.com
+$.*evidon.*
+
+! TikTok
+analytics.tiktok.com
+analytics-ipv6.tiktokw.us
+
+! Twitter
+$.*ads-twitter.*
+t.co
+analytics.twitter.com
+$.*analytics.twitter.*
+
+! Kargo
+crb.kargo.com
+$.*kargo.*
+
+! Roku, Inc
+$.*w55c.*
+
+! Near
+$.*adnear\.net
+
+! Anyword
+$.*keywee\.co
+
+! Adtelligent
+$.*adtelligent\.com
+
+! IQM Advertising Corporation
+$.*iqm\.com
+
+! KDDI
+$.*socdm\.com
+
+! iO
+$.*4dex\.io
+
+! Admedo
+$.*admedo\.com
+
+! OMERS Private Equity
+$.*owneriq\.net
+
+! Global Media & Entertainment Ltd
+$.*thisisdax\.com
+
+! AppsFlyer
+$.*appsflyersdk\.com
+
+! Offspring Capital
+cdn.mouseflow.com
+
+! Nordic Capital
+$.*siteimproveanalytics.*
+
+! Illumin 
+$.*acuityplatform\.com
+$.*admanmedia\.com
+
+! Cadent 
+$.*adhaven\.com
+
+! Statsig
+featureassets.org
+prodregistryv2.org
+
+! OpenX
+$.*openx\.net
+$.*openxcdn\.net
+
+! Braze
+$.*braze\.com
+$.*appboycdn\.com
+
+! RTB House
+$.*rtb.mx
+$.*creativecdn\.com
+
+! Kueez Entertainment LTD
+$.*kueezrtb\.com
+
+! Dentsu
+$.*rkdms\.com
+
+! Zeta Global
+$.*rfihub.*
+$.*boomtrain.*
+$.*liadm\.com
+$.*rezync\.com
+
+! Mayfair Equity Partners
+csync.loopme.me
+$.*loopme.*
+
+! AtData
+di.rlcdn.com
+$.*rlcdn.*
+
+! MobFox
+$.*mobfox\.com
+
+! IQzone
+$.*iqzone\.com
+
+! Verve Group
+$.*lkqd\.net
+
+! Krush Media
+$.*krushmedia\.com
+
+! Adzerk
+$.*serverbid\.com
+
+! AdMaster
+$.*admaster\.cc
+
+! Confiant
+$.*confiant-integrations\.net
+$.*clarium\.io
+
+! DoubleVerify 
+$.*doubleverify\.com
+
+! Station Digital Media 
+$.*stationdm\.com
+
+! Vista Equity 
+eb2.3lift.com
+$.*3lift.*
+$.*blueconic\.net
+$.*adsafeprotected\.com
+$.*ib-ibi\.com
+$.*getpublica\.com
+
+! Pinterest 
+s.pinimg.com
+ct.pinterest.com
+$.*pinimg.*
+$.*pinterest.*
+
+! Roper Technologies 
+px.adentifi.com
+$.*adentifi.*
+
+! Snap Inc. (snapchat) 
+sc-static.net
+tr.snapchat.com
+tr6.snapchat.com
+$.*snapchat.*
+$.*sc-static.*
+
+! Conviva
+$.*conviva\.com
+
+! Cisco
+cdn.appdynamics.com
+$.*appdynamics.*
+
+! Conversant
+exchange-match.mediaplex.com
+login-ds.dotomi.com
+$.*mediaplex.*
+$.*dotomi.*
+
+! Medallia
+cdn.decibelinsight.net
+collection.decibelinsight.net
+medallia.com
+$.*decibelinsight.*
+$.*medallia.*
+
+! DataDog
+rum.browser-intake-datadoghq.com
+logs.browser-intake-datadoghq.com
+$.*datadoghq.*
+
+! Reddit
+www.redditstatic.com
+alb.reddit.com
+pixel-config.reddit.com
+$.*redditstatic.*
+$.*reddit.*
+
+! Vimeo 
+vimeocdn.com
+player.vimeo.com
+i.vimeocdn.com
+f.vimeocdn.com
+arclight.vimeo.com
+vod-adaptive-ak.vimeocdn.com
+$.*vimeo.*
+
+! car-specific
+vocapi-na.wirelesscar.net
+assets.telematicsct.com
+strapi-cms-service.telematicsct.com
+$.*wirelesscar.*
+$.*telematicsct.*
+api.autointel.ai
+$.*autointel.*
+$.*inrix.*
+
+! Google direct (Alphabet Inc)
+app-analytics-services.com
+googleadservices.com
+googleads.g.doubleclick.net
+www.googletagmanager.com
+$.*googletagservices.com
+analytics.google.com
+www.google-analytics.com
+stats.g.doubleclick.net
+pubads.g.doubleclick.net
+ad.doubleclick.net
+adservice.google.com
+14771376.fls.doubleclick.net
+8951737.fls.doubleclick.net
+fls.doubleclick.net
+img.youtube.com
+imasdk.googleapis.com
+$.*2mdn.*
+firebase-settings.crashlytics.com
+app-analytics-services-att.com
+app-measurement.com
+ads.creative-serving.com
+ade.googlesyndication.com
+ogs.google.com
+ogads-pa.clients6.google.com 
+retail.googleapis.com
+auditrecording-pa.googleapis.com
+feedback-pa.googleapis.com
+scone-pa.googleapis.com
+jnn-pa.googleapis.com
+$.*googlesyndication\.com
+$.*googleadservices.*
+$.*doubleclick.*
+$.*google-analytics.*
+$.*analytics.google.*
+$.*youtube.*
+$.*crashlytics.*
+$.*googletagmanager.*
+$.*googleoptimize.*
+
+! FullStory (Google Invested)
+edge.fullstory.com
+mr.fullstory.com
+$.*fullstory.*
+
+! ATA - Unidentifiable Company
+tagging.shiftdigitalapps.io
+$.*shiftdigitalapps.*
+ad.mrtnsvr.com
+ad-delivery.net
+qvdt3feo.com 
+event.hgrtb.com
+fallaciousfifth.com
+$.*rtactivate\.com
+$.*betrad.*
+l.betrad.com
+$.*hrzn-nxt.com
+
+
+! Yahoo
+$.*yahoo.*
+
+! Insurance Related
+$.*a-mo\.net
+
+! State Farm Mutual Automobile Insurance Company
+$.*st8fm\.com

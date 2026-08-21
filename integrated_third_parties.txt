@@ -1,0 +1,278 @@
+! Maps/Navigation
+# ['all']
+$.*mapbox.com
+places.googleapis.com
+maps.googleapis.com
+mobilemaps-pa.googleapis.com
+mapsmobilesdks-pa.googleapis.com
+geomobileservices-pa.googleapis.com
+maps.a.forceusercontent.com
+$.*here.*
+$.*telenav.com
+$.*waze\.com
+$.*tomtom.*
+
+! Weather
+# ['all']
+$.*gcs\.garmin\.com
+$.*openweathermap\.org
+
+! Zoom
+# ['tesla-cybertruck', 'tesla-model3']
+$.*zoom\.us
+
+! Twitch
+# ['tesla-cybertruck', 'tesla-model3']
+$.*twitch\.tv
+$.*ttvnw\.net
+$.*live-video\.net
+$.*twitchcdn\.net
+
+! Netflix
+# ['tesla-cybertruck', 'tesla-model3']
+ichnaea-web.netflix.com
+logs.netflix.com
+netflix.com
+www.netflix.com
+$.*netflix\.com
+$.*nflximg\.net
+$.*nflxext\.com
+$.*nflxso\.net
+
+! Voice Queries
+# ['all']
+$.*houndify\.com
+
+! Captcha and Anti-Fraud
+# ['all']
+$.*hcaptcha.*
+seap.xtn-lab.it
+www.recaptcha.net
+fpt.dfp.microsoft.com
+mobile.events.data.microsoft.com
+$.*approovr\.io
+$.*approoval\.com
+$.*docusign\.com
+urldefense.proofpoint.com
+
+! Access Repair Manuals, Roadside Assistance, Scheduling, IVH, and Diagnostic Tools
+# ['all']
+$.*alldataapp.*
+$.*xtime\.com
+$.*.aaa\.com
+$.*urgent\.ly
+$.*tweddle\.io
+responseroadservice.com
+volvo.custhelp.com
+
+! Hulu 
+# ['tesla-cybertruck', 'tesla-model3']
+$.*hulu\.com
+
+! Disney
+# ['tesla-cybertruck', 'tesla-model3']
+cnbl-cdn.bamgrid.com
+
+! YouTube 
+# ['tesla-cybertruck', 'tesla-model3', 'chevrolet-blazer', 'honda-prologue', 'KiaAccess', 'MINI', 'MyMazda']
+rr2---sn-ab5sznly.googlevideo.com
+rr1---sn-ab5sznzd.googlevideo.com
+rr3---sn-ab5l6nrl.googlevideo.com
+rr5---sn-ab5sznzs.googlevideo.com
+$.*googlevideo\.com
+$.*ggpht\.com
+yt3.googleusercontent.com
+i.ytimg.com
+
+! TikTok
+# ['tesla-cybertruck', 'tesla-model3']
+mcs.zijieapi.com
+mon-va.byteoversea.com
+$.*tiktok.*
+$.*ibyteimg.*
+$.*ttwstatic\.com
+$.*ttdns2\.com
+
+! LiveChat (app)
+# ['FordPass', 'MyNissan', 'MyMazda', 'Volvo']
+$.*liveperson.*
+$.*salesforceliveagent\.com
+sierra.chat
+volvo.quiq-api.com
+
+! EV Charging/Refueling
+# ['all']
+$.*chargepoint\.com
+$.*plugshare\.com
+$.*goriv\.co
+
+! Radio 
+# ['all']
+smy.iheart.com
+webapi.radioedit.iheart.com	
+us.api.iheart.com	
+$.*.streaming\.siriusxm\.com
+$streamingapi.*\.mountain\.siriusxm\.com
+$.*radiotime\.com
+api.edge-gateway.siriusxm.com
+settings.client-config.siriusxm.com
+$.*tunein\.com
+$.*.spotify\.com
+$.*spotifycdn\.com
+chrt.fm
+$.*surfernetwork\.com
+media.npr.org
+www.cnbc.com
+fm.cnbc.com
+ak.podcast.foxnewsradio.com
+i.slkimg.com
+img.global.news.samsung.com
+$.*galaxie\.ca
+$.*stingray\.com
+$.*slacker\.com
+drterifisher.com
+prod-mediatools-google.global.reuters.tv
+$.*libsyn\.com
+$.*dw.com
+$.*omnycontent\.com
+t1.cnrd.io
+www.omnycontent.com
+img.global.news.samsung.com
+$.*scdn\.co
+$.*acast\.com
+
+! Audible
+# ['tesla-cybertruck', 'tesla-model3']
+api.audible.com
+
+! Vehicle Backend General
+# ['all']
+$.*connectedtech\.io
+$.*fontawesome\.com
+events.launchdarkly.com
+$.*launchdarkly\.com
+fcaapi.nextgen-technology.net
+$.*mpeasylink.com
+$.*omnichannelengagementhub.com
+login.microsoftonline.com
+mbimmux0.1
+
+! Android Automotive/ Google APIs
+# ['all']
+www.google.com
+$.*gvt1\.com
+$.*gvt2\.com
+google.com
+$.*googlezip\.net
+dl.google.com
+accounts.google.com	
+$.*android\.com
+android.apis.google.com
+android.clients.google.com
+clients2.google.com
+alt3-mtalk.google.com
+play.google.com
+$time.*google\.com
+$clients.*google\.com
+apis.google.com
+support.google.com
+id.google.com
+mtalk.google.com
+or-u.storage.googleapis.com
+os-u.storage.googleapis.com
+or-s.storage.googleapis.com
+prod-lt-playstoregatewayadapter-pa.googleapis.com
+play-fe.googleapis.com
+playstoregatewayadapter-pa.googleapis.com
+play.googleapis.com
+android.googleapis.com
+fonts.googleapis.com
+storage.googleapis.com
+content-autofill.googleapis.com
+clientservices.googleapis.com
+www.googleapis.com
+proactivebackend-pa.googleapis.com
+update.googleapis.com
+signaler-pa.googleapis.com
+reminders-pa.googleapis.com
+oauth2.googleapis.com
+notifications-pa.googleapis.com
+safebrowsing.googleapis.com
+firebasedynamiclinks.googleapis.com
+firebaseinappmessaging.googleapis.com
+firebaselogging.googleapis.com
+firebaseremoteconfig.googleapis.com
+firebaseinstallations.googleapis.com
+firebaseremoteconfigrealtime.googleapis.com
+firebaseappcheck.googleapis.com
+firebaselogging-pa.googleapis.com
+securitydomain-pa.googleapis.com
+firestore.googleapis.com
+speechs3proto2-pa.googleapis.com
+ajax.googleapis.com
+embeddedassistant.googleapis.com
+device-provisioning.googleapis.com
+gmscompliance-pa.googleapis.com
+passwordsleakcheck-pa.googleapis.com
+people-pa.googleapis.com
+zerostateproxy-pa.googleapis.com
+ulp1p-pa.googleapis.com
+fcmtoken.googleapis.com
+lh3.googleusercontent.com
+play-lh.googleusercontent.com
+$.*gstatic\.com
+geller-pa.googleapis.com
+footprints-pa.googleapis.com
+infinitedata-pa.googleapis.com
+iid.googleapis.com 
+$.*storage\.googleapis\.com
+storage.googleapis.com
+$.*run.app
+
+! Alexa
+# ['rivian-R1S', 'nissan-ariya']
+alexa.na.gateway.devices.a2z.com
+alexa-comms-mobile-service-na.amazon.com
+alexa.amazon.com
+
+! AWS
+# ['rivian-R1S', 'nissan-ariya', 'tesla-cybertruck', 'chevrolet-blazer', 'tesla-model3', 'ram-bighorn', 'cadillac-lyriq', 'fiat-500e']
+api.amazon.com
+www.amazon.com
+
+
+! App Form Fillouts
+# ['all']
+$.*siteintercept\.qualtrics\.com
+eligibility.wootric.com
+
+! Accessibility Associated Domains
+# ['MyMazda', 'Lincoln']
+accesswidget-log-receiver.acsbapp.com
+acsbapp.com
+browser.pipe.aria.microsoft.com
+cdn.acsbapp.com
+
+! LibertyMutual
+# ['MyNissan']
+$.*libertymutual\.com	
+$.*libertymutual-cdn\.com
+
+! Payment Functionality
+# ['all']
+$.*squareup\.com
+
+! Tesla Test Setup
+# ['tesla-cybertruck', 'tesla-model3']
+$.*wikipedia\.org
+$.*wikimedia\.org
+$.*tacobell\.com
+$.*ihop\.com
+
+! Cookie Consent Domains
+# ['MyNissan']
+$.*mczbf.*	
+
+! Integrated Credit Card Requests
+# ['myGMC', 'myBuick', 'MyChevrolet', 'MyCadillac', 'MyChevroletBrian']
+$.*barclaycardus.com
